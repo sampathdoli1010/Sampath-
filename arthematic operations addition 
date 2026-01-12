@@ -1,0 +1,23 @@
+1.  a = 10
+b = 5
+result = a + b
+print(result)
+
+2. num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+print(num1 + num2)
+
+
+3. a = 2.5
+b = 1.5
+print(a + b)
+
+4 . x = 4
+y = 6
+z = 10
+sum = x + y + z
+print(sum)
+
+5. numbers = [2, 4, 6, 8]
+total = sum(numbers)
+print(total)
